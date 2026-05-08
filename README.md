@@ -1,4 +1,4 @@
-Technology used in project
+Technology used in this project
 ---------------------------------
 I completely done this project using React js.
 
