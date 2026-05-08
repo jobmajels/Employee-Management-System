@@ -1,0 +1,31 @@
+.newempBox{
+    color:white;
+    display:flex;
+    flex-direction:column;
+    width:30vw;
+    height:60vh;
+    padding:1rem;
+    box-sizing:border-box;
+    background-color:white;
+    margin:15vh auto;
+    border-radius:0.5rem;
+    gap:1rem;
+}
+
+.newempBox input{
+padding:0.5rem;
+}
+
+.newempBox button{
+    width:4rem;
+}
+
+.newempBox button:hover{
+    cursor:pointer;
+     background-color:rgb(200, 196, 196);
+}
+
+.newempBox #btn4{
+    margin:auto;
+    border-radius:0.5rem;
+}

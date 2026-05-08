@@ -1,0 +1,42 @@
+[
+    {
+        "id": "001",
+        "name": "antony felix",
+        "email": "antonyfelix123@gmail.com",
+        "department": "sales",
+        "salary": "4LPA",
+        "status": "active"
+    },
+    {
+        "id": "002",
+        "name": "deepika menon",
+        "email": "deepikam123@.com",
+        "department": "finance",
+        "salary": "6LPA",
+        "status": "active"
+    },
+    {
+        "id": "003",
+        "name": "arjun reddy",
+        "email": "arjunr123@.com",
+        "department": "development",
+        "salary": "8LPA",
+        "status": "active"
+    },
+    {
+        "id": "004",
+        "name": "kavita joshi",
+        "email": "kavitaj123oshi@.com",
+        "department": "marketing",
+        "salary": "5.5LPA",
+        "status": "inactive"
+    },
+    {
+        "id": "005",
+        "name": "manoj tanu",
+        "email": "manojt123@.com",
+        "department": "operations",
+        "salary": "4.8LPA",
+        "status": "active"
+    }
+]

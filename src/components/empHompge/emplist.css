@@ -1,0 +1,24 @@
+.emplstbox{
+    background-color:rgba(225, 201, 255, 0.808);
+    border-radius:1rem;
+    margin-bottom:1rem;
+    padding:1rem;
+    display:flex;
+    flex-direction:column;
+}
+
+.emplstbox button{
+   width:4rem;
+   border-radius:10px;
+ 
+}
+.emplstbox button:hover{
+   cursor:pointer;
+  background-color:rgba(212, 212, 212, 0.808);
+}
+.emplstbox #btn1{
+    margin-left:auto;
+}
+.emplstbox span span{
+    font-weight:700;
+}
